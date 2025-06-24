@@ -83,17 +83,16 @@ To create the smartest, most reliable skill-trading community where knowledge is
 
 # 🛠 How to Run Locally?
 
-1) Clone the repo
+1) Clone the repo :
 git clone https://github.com/KudumulaRajVardhanReddy/TradeSkillsNotMoney.git
 cd TradeSkillsNotMoney
-Install dependencies
 
-2) Install dependencies
+2) Install dependencies :
 npm install
 cd client && npm install
 
-3) Set up Firebase & MongoDB
+3) Set up Firebase & MongoDB :
 Rename .env.example to .env and fill in keys.
 
-4) Run the app
-npm run dev (for both frontend + backend)
+4) Run the app :
+npm run dev

@@ -1,4 +1,4 @@
-TradeSkillsNotMoney - AI-Powered Skill Exchange Platform 🔄🤖🎸💻
+# TradeSkillsNotMoney - AI-Powered Skill Exchange Platform 🔄🤖🎸💻
 🚀 A MERN Stack + Firebase Web App for Peer-to-Peer Skill Trading
 
 📌 What is TradeSkillsNotMoney?
